@@ -8,3 +8,4 @@ Deja tus resultados en mi Instagram o compártelo en tus redes sociales.
 
 Instagram: erick_guz
 
+![image](https://user-images.githubusercontent.com/81647887/197895222-babc5d6d-9eb0-46ba-b366-3d15cd9f408e.png)
