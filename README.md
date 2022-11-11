@@ -1,6 +1,6 @@
 # FrontEndStore_inicio
 Proyecto Front End Store. 
-Este pequeño proyecto, realizamos una pequeña tienda virtual con las herramientas  HTML5 y CSS3, utilizando la metodología BEEM.
+En este pequeño proyecto, realizamos una tienda virtual con las herramientas  HTML5 y CSS3, utilizando la metodología BEEM.
 
 Cualquier modificación o mejora al proyecto es bienvenida, con la intención de ayudar a otros developers. 
 
